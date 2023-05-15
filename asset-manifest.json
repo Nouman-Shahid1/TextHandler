@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nouman-Shahid1/TextHandler.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Nouman-Shahid1/TextHandler.git/static/js/main.7bca8183.js",
+    "index.html": "/Nouman-Shahid1/TextHandler.git/index.html",
+    "main.e6c13ad2.css.map": "/Nouman-Shahid1/TextHandler.git/static/css/main.e6c13ad2.css.map",
+    "main.7bca8183.js.map": "/Nouman-Shahid1/TextHandler.git/static/js/main.7bca8183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7bca8183.js"
+  ]
+}
